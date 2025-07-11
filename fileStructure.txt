@@ -1,0 +1,9 @@
+file strcutre:
+
+DBConnection.cpp
+customer.cpp : customer class and fcuntios
+bank.cpp
+main.cpp: main loop
+utils.cpp : utility fucntions
+
+uml diagram might be added In future..
